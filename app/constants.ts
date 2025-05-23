@@ -1,0 +1,3 @@
+export const PAGE_DELAY = 1000;
+export const PRIMARY_CONTENT_DELAY = 4000;
+export const SECONDARY_CONTENT_DELAY = 2000;

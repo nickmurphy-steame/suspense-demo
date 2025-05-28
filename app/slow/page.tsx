@@ -3,7 +3,7 @@ import { PAGE_DELAY } from "../constants";
 import {
   getPrimaryContentCount,
   getSecondaryContentCount,
-} from "@/data/primaryContent";
+} from "@/data/loaders";
 import { SecondaryContent } from "@/components/SecondaryContent";
 
 export default async function SlowPage() {

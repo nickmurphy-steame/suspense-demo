@@ -14,8 +14,8 @@ export default async function SlowPage() {
   return (
     <div className="w-full max-w-screen-lg mx-auto grid grid-cols-3 gap-3 items-start">
       <header className="col-span-3">
-        <h1>Slow Page</h1>
-        <p>This is the slow page.</p>
+        <h1>Slowest Page</h1>
+        <p>This is the slowest page.</p>
       </header>
       <div className="col-span-2">
         <PrimaryContent count={primaryCount} />
